@@ -1,2 +1,2 @@
-# Crop-yield-prediction-based-on-Weather-condiotion-
-Crops yield prediction based on weather condition 
+#Indian-Crops-yield-eastimation-based-on-Global-Weather-conditions
+Indian Crops yield eastimation based on Global Weather conditions
